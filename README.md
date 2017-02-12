@@ -5,7 +5,6 @@ A basic to do list in vanilla Javascript where a user can create todo items
  - Event propagation causes some weird behavior if you click directly on the check mark.
  - Some functions such as the addTodo() could be broken down into smaller parts
  - .sass file is messy 
- - Design could be better
  
 # Adding features
  - Utilize the new localStorage API to store the todo items in memory
