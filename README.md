@@ -8,7 +8,7 @@ A basic to do list in vanilla Javascript where a user can create todo items
  
 # Adding features
  - Utilize the new localStorage API to store the todo items in memory
- - Add some addittional functionality of CRUD 
+ - Add some additional functionality of CRUD 
   - Create - COMPLETE
   - READ - INHERITED
   - UPDATE - NEEDS IMPLEMENTATION
